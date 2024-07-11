@@ -1,0 +1,1 @@
+With this small script, you can download any domain list from the crt.sh website. The URL is hardcoded inside the code but is easy, this tool is useful for Bug Bounties when you are gathering domains or subdomains of a website.
