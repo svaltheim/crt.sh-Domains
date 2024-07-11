@@ -29,7 +29,7 @@ def get_subdomains(domain):
     return list(subdomains)
 
 # Ejemplo de uso
-dominio = "att.com"
+dominio = "example.com"
 subdominios = get_subdomains(dominio)
 print(f"Subdominios encontrados para {dominio}:")
 for subdominio in subdominios:
